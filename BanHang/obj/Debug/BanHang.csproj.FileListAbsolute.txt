@@ -1,0 +1,10 @@
+F:\C#\BanHang\BanHang\bin\Debug\BanHang.exe.config
+F:\C#\BanHang\BanHang\bin\Debug\BanHang.exe
+F:\C#\BanHang\BanHang\bin\Debug\BanHang.pdb
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.Form1.resources
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.cache
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.exe
+F:\C#\BanHang\BanHang\obj\Debug\BanHang.pdb
